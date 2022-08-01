@@ -4,9 +4,9 @@ Hi 👋 My name is Ben Zhou
 I am a 2nd year Software Engineering Student at The University of Auckland. I love problem solving and enjoy using coding as a means to build applications that are beneficial to myself and others. I started off with Java, and now I am working on adding the MERN Stack to my arsenal.
 
 * 🌍  I'm based in Auckland, New Zealand
-* 🖥️  See my portfolio at [benzhou.dev](http://benzhou.dev/)
+* 🖥️  See my portfolio at [benzhou.dev](https://benzhou.dev/)
 * ✉️  You can contact me at [benzhou2597@gmail.com](mailto:benzhou2597@gmail.com)
-* 🚀  I'm currently working on [Quick Route](http://app.benzhou.dev/quickroute)
+* 🚀  I'm currently working on [Quick Route](https://app.benzhou.dev/quickroute)
 * 🧠  I'm currently learning the MERN Stack
 
 ### Skills
