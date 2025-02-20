@@ -1,7 +1,7 @@
 Hi 👋 My name is Ben Zhou
 =========================
 
-I am a final year Software Engineering Student at The University of Auckland. I love problem solving and enjoy using coding as a means to build applications that are beneficial to myself and others.
+I love problem solving and enjoy using coding as a means to build applications that are beneficial to myself and others.
 
 * 🌍  I'm based in Auckland, New Zealand
 * 🖥️  See my portfolio at [benzhou.dev](https://benzhou.dev/)
